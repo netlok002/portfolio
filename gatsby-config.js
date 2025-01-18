@@ -42,12 +42,12 @@ module.exports = {
       {
         name: 'Crown Castle',
         description: 'Scrum Master, April 2024 - January 2025',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'Evergy',
         description: 'DevOps Scrum Master, July 2022 - April 2024',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
         name: 'Scrum Master III',
