@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://preeminent-figolla-8f05b9.netlify.app/`,
+    siteUrl: `https://trevgeis.netlify.app/`,
     // Your Name
     name: 'Trevor Geisler',
     // Main Site Title
     title: `Trevor Geisler | Agilist`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `DevOps Scrum Master | Process Improvement Specialist | Operational Excellence Analyst`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
@@ -19,22 +19,10 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Review Queue',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A code review optimization tool that suggests developers based on expertise, history, and availability.',
+        link: 'https://github.com/netlok002/review-queue',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -50,8 +38,8 @@ module.exports = {
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Scrum Master III',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
+        name: 'HanesBrands, Inc',
+        description: 'Scrum Master III, May 2015 - December 2017',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
