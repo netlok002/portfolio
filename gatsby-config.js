@@ -9,7 +9,7 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `DevOps Scrum Master | Process Improvement Specialist | Operational Excellence Analyst`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/netlok002`,
     // Optional: LinkedIn account URL
