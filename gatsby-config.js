@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Trevor Geisler',
     // Main Site Title
-    title: `Trevor Geisler | Agilist`,
+    title: `Trevor Geisler | QA Automation`,
     // Description that goes under your name in main bio
-    description: `DevOps Scrum Master | Process Improvement Specialist | Operational Excellence Analyst`,
+    description: `QA Automation | DevOps Scrum Master`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
