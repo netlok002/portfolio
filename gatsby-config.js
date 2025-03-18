@@ -28,19 +28,24 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Navispect',
+        description: 'Scrum Master, March 2025 - Present',
+        link: 'https://www.navispect.com/about',
+      },
+      {
         name: 'Crown Castle',
         description: 'Scrum Master, April 2024 - January 2025',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://www.crowncastle.com/',
       },
       {
         name: 'Evergy',
         description: 'DevOps Scrum Master, July 2022 - April 2024',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://www.evergy.com/',
       },
       {
         name: 'HanesBrands, Inc',
-        description: 'Scrum Master III, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        description: 'Scrum Master III for Champion, May 2015 - December 2017',
+        link: 'https://www.champion.com/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -48,16 +53,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript, Python, SQL'
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Automation and Testing Tools',
+        description:
+          'Postman, Selenium, Puppeteer',
       },
       {
         name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+        description: 'Agile/Scrum, Git, Power Automate, MongoDB, MySQL, Jira Admin, PowerBI, Slackbot (Chatops)',
       },
     ],
   },
