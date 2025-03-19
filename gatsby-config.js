@@ -19,17 +19,17 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Review Queue',
+        name: 'Medication Lookup',
         description:
-          'A code review optimization tool that suggests developers based on expertise, history, and availability.',
-        link: 'https://github.com/netlok002/review-queue',
+          'A data cleansing application for medicare patients the leverages the RxNorm API to normalize medication names and dosages.',
+        link: 'https://github.com/netlok002/medsearch',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
         name: 'Navispect',
-        description: 'Scrum Master, March 2025 - Present',
+        description: 'Software Developer, March 2025 - Present',
         link: 'https://www.navispect.com/about',
       },
       {
