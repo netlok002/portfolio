@@ -22,7 +22,13 @@ module.exports = {
         name: 'Medication Lookup',
         description:
           'A data cleansing application for medicare patients the leverages the RxNorm API to normalize medication names and dosages.',
-        link: 'https://github.com/netlok002/medsearch',
+        link: 'https://github.com/netlok002/medication-lookup',
+      },
+      {
+        name: 'Postman API Testing',
+        description:
+          'A collection of tests validating the Reqres.in API.',
+        link: 'https://documenter.getpostman.com/view/11023022/2sAYkGJyRp',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
