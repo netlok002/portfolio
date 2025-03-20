@@ -27,8 +27,14 @@ module.exports = {
       {
         name: 'Postman API Testing',
         description:
-          'A collection of tests validating the Reqres.in API.',
+          'A collection of tests validating the Reqres.in API (WIP).',
         link: 'https://documenter.getpostman.com/view/11023022/2sAYkGJyRp',
+      },
+      {
+        name: 'Playwrite',
+        description:
+          'Automated Web Testing using Playwrite (WIP).',
+        link: 'https://github.com/netlok002/playwrite-python',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
